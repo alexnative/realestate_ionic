@@ -1,8 +1,7 @@
 {
-  "name": "dreamhouse",
+  "name": "RealEstate_Ionic",
   "version": "0.0.0",
-  "author": "Christophe Coenraets",
-  "homepage": "http://coenraets.org/",
+  "author": "Web Visions",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
@@ -50,5 +49,5 @@
       "locator": "ios"
     }
   ],
-  "description": "dreamhouse sample app"
+  "description": "Ionic 3 Real Estate"
 }
